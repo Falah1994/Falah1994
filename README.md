@@ -1,4 +1,5 @@
-Hi, I'm Falah 👋
+Hello There, I'm Falah 👋
+
 UX/UI Designer | Customer Experience Specialist | Front-End Developer
 
 I am currently pursuing a Bachelor of Science in Graphic Information Technology at Arizona State University while building skills in user experience design, front-end development, and digital product design.
